@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
 This is my second file.
-
-=======
-I am using stash.
->>>>>>> Stashed changes
